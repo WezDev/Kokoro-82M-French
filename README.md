@@ -21,4 +21,4 @@ Parler Mini : 880 millions, Apache, 45 000 heures
 Fish Speech : environ 500 millions, CC-BY-NC-SA, 1 million d'heures
 La capacité de Kokoro à atteindre le sommet de cette échelle Elo suggère que la loi d'échelle (Elo vs calcul/données/paramètres) pour les modèles TTS traditionnels pourrait avoir une pente plus raide que prévu.
 
-Vous pouvez trouver une démo hébergée sur hf.co/spaces/hexgrad/Kokoro-TTS.
+Vous pouvez trouver une démo hébergée sur https://hf.co/spaces/hexgrad/Kokoro-TTS.
